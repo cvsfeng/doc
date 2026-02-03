@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "8d54d645505a8abe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9671ea82d1580ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "315bae58cdeb0f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux笔记/命令小记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "命令小记录"
+            }
+          },
+          {
+            "id": "2648003d8a236f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vmlog/1. vmlog manualscript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. vmlog manualscript"
+            }
+          },
+          {
+            "id": "47f8a6bd7d5de902",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "linux笔记/图片/Pasted image 20260129100754.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260129100754"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2bf6959d81d2a44",
+    "type": "split",
+    "children": [
+      {
+        "id": "63b3b3bcceca237a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ed04d2c6b1cdfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7dae6f71a992ab12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "025fcf7dbc0fdb2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a972c401efc74de",
+    "type": "split",
+    "children": [
+      {
+        "id": "e37b86b90fef818a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e918f4cceeec57d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linux笔记/命令小记录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "命令小记录 的反向链接列表"
+            }
+          },
+          {
+            "id": "74ec259f0e0b959c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "linux笔记/命令小记录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "命令小记录 的出链列表"
+            }
+          },
+          {
+            "id": "894b7a033c53da4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c5a259eb8084fd92",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "618e16e69690f0ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linux笔记/图片/Pasted image 20260129100754.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Pasted image 20260129100754 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "47f8a6bd7d5de902",
+  "lastOpenFiles": [
+    "linux笔记/命令小记录.md",
+    "vmlog/3. 高基数问题.md",
+    "linux笔记/图片/Pasted image 20260129100951.png",
+    "linux笔记/图片/Pasted image 20260129101314.png",
+    "linux笔记/图片/Pasted image 20260129101035.png",
+    "linux笔记/图片/Pasted image 20260129100754.png",
+    "linux笔记/图片",
+    "未命名.canvas",
+    "未命名.base",
+    "未命名 3.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "未命名.md",
+    "vmlog/1. vmlog manualscript.md",
+    "vmlog/4. reblance.md",
+    "linux笔记",
+    "欢迎.md",
+    "创建链接.md",
+    "2026-01-28.md",
+    "vmlog/2. 关键概念.md",
+    "未命名 1.canvas",
+    "Untitled.md",
+    "vmlog"
+  ]
+}
