@@ -4,21 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "56cc641d1b1b8f76",
+        "id": "dbc08643ae058a32",
         "type": "tabs",
         "children": [
           {
-            "id": "cf855ed60c5e5cb2",
+            "id": "e5aee1e94b764a87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FIX/金融IT转型学习计划.md",
+                "file": "AI/daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "金融IT转型学习计划"
+              "title": "daily"
+            }
+          },
+          {
+            "id": "48e57710f186b8ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dowithme/selfintroduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "selfintroduction"
+            }
+          },
+          {
+            "id": "e167b2673696b379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目进度/for Q2 plans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "for Q2 plans"
+            }
+          },
+          {
+            "id": "16ad03ec86eb1483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目进度/Q2 todo list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Q2 todo list"
             }
           }
         ]
@@ -78,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "5a972c401efc74de",
@@ -156,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FIX/金融IT转型学习计划.md",
+                "file": "项目进度/for Q2 plans.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "金融IT转型学习计划 的大纲"
+              "title": "for Q2 plans 的大纲"
             }
           }
         ],
@@ -170,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,54 +227,55 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cf855ed60c5e5cb2",
+  "active": "e5aee1e94b764a87",
   "lastOpenFiles": [
-    "FIX/金融IT转型学习计划.md",
-    "FIX",
-    "创建链接.md",
-    "欢迎.md",
-    "未命名 1.base",
+    "AI/road.md",
+    "AI/daily.md",
     "未命名.base",
+    "AI",
+    "dowithme/self Q&A.md",
+    "dowithme/selfintroduction.md",
+    "项目进度/for Q2 plans.md",
+    "项目进度/Q2 todo list.md",
+    "未命名 6.base",
+    "未命名 7.base",
+    "未命名 5.base",
     "未命名 2.base",
-    "Pasted image 20260301154951.png",
-    "调剂/未命名.md",
-    "未命名.md",
-    "调剂",
+    "dowithme/self.md",
+    "项目进度/sls下云及apm建设事项/15%名单.md",
+    "项目进度/sls下云及apm建设事项/问题记录.md",
+    "项目进度/sls下云及apm建设事项/问题记录img/企业微信截图_ee240f68-dfaa-4bb3-8e84-76e9b4c887bc.png",
+    "项目进度/sls下云及apm建设事项/问题记录img/企业微信截图_1e044ed4-ec22-4aec-90ac-ec5d02d8b7a8.png",
+    "项目进度/sls下云及apm建设事项/问题记录img/企业微信截图_3c0fef99-97be-43e8-a465-8ce6a1ba53cf.png",
+    "项目进度/sls下云及apm建设事项/问题记录img/Pasted image 20260317104632.png",
+    "项目进度/sls下云及apm建设事项/问题记录img/Pasted image 20260317104503.png",
+    "dowithme",
+    "未命名 4.base",
+    "未命名 3.base",
+    "未命名 1.base",
+    "项目进度/sls下云及apm建设事项/问题记录img/Pasted image 20260317104627.png",
+    "项目进度/sls下云及apm建设事项/问题记录img/企业微信截图_f052bf62-4191-4711-bdae-02f88bdfc67d.png",
+    "项目进度/sls下云及apm建设事项/问题记录img/企业微信截图_b7e90d0e-3c6e-49fe-85dd-96d2edc65584.png",
+    "项目进度/sls下云及apm建设事项/问题记录img/企业微信截图_9299665c-9df7-4cb9-9b12-6a10bdfff8c9.png",
+    "项目进度/sls下云及apm建设事项/问题记录img/企业微信截图_276ecb02-d4a6-4c30-977f-2d1baa94c3b8.png",
+    "项目进度/sls下云及apm建设事项/apm_性能问题定位.md",
+    "项目进度/sls下云及apm建设事项/prometheus.md",
+    "项目进度/sls下云及apm建设事项/邮件.md",
     "项目进度/sls下云及apm建设事项/会议纪要及跟进.md",
     "项目进度/sls下云及apm建设事项/2026-Q1.md",
-    "项目进度/sls下云及apm建设事项/名单.md",
-    "项目进度/sls下云及apm建设事项/邮件.md",
+    "vmlog/vmlog查询语法使用手册.md",
+    "vmlog/查询疑问.md",
+    "vmlog/4. reblance.md",
+    "vmlog/2. 关键概念.md",
+    "FIX/金融IT转型学习计划.md",
+    "创建链接.md",
+    "欢迎.md",
+    "调剂/未命名.md",
     "linux笔记/命令小记录.md",
     "linux笔记/实用命令.md",
-    "linux笔记/图片/Pasted image 20260129101314.png",
     "voc/未命名.md",
-    "voc/图片/981732548878_.pic_hd.jpg",
-    "voc/图片",
     "voc/作文模版.md",
-    "voc/图片/2951732630932_.pic_hd.jpg",
-    "voc/图片/2941732630932_.pic_hd.jpg",
-    "voc/图片/2931732630930_.pic_hd.jpg",
-    "voc/图片/2921732630930_.pic_hd.jpg",
-    "voc/图片/2911732630929_.pic_hd.jpg",
-    "voc/图片/2901732630928_.pic_hd.jpg",
-    "voc/图片/2891732630927_.pic_hd.jpg",
-    "vmlog/vmlog查询语法使用手册.md",
-    "voc",
-    "vmlog/查询疑问.md",
-    "vmlog/sql trace.md",
-    "2026-01-28.md",
-    "项目进度/sls下云及apm建设事项",
-    "项目进度",
-    "未命名 3.base",
-    "vmlog/1. vmlog manualscript.md",
-    "vmlog/4. reblance.md",
-    "vmlog/3. 高基数问题.md",
     "未命名.canvas",
-    "未命名 3.md",
-    "未命名 2.md",
-    "未命名 1.md",
-    "vmlog/2. 关键概念.md",
-    "未命名 1.canvas",
-    "Untitled.md"
+    "未命名 1.canvas"
   ]
 }
